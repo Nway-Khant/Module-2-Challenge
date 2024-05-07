@@ -125,6 +125,10 @@ p {
     font-size: 22px;
 }
 
+.Contact-Me ul li a {
+    text-decoration: none;
+}
+
 .btm .ul {
     display: none;
 }
